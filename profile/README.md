@@ -18,3 +18,13 @@ Accounting invariants, API/SDK, billing adapters, idempotency, migrations, recon
 | `flutter-web-auth-e2e` | UI/accessibility | `ready` | `matrix` |
 
 Pull requests run deterministic harness checks. Emulators, desktop matrices, live APIs/providers, databases, chaos, scale, and soaks are scheduled/manual. Missing upstreams or credentials are blocked readiness—not false passes or product regressions.
+
+<!-- org-project-routing:start -->
+## Planning and delivery
+
+- [GitHub Project: quaestor-ledger-test-project](https://github.com/orgs/quaestor-ledger-test/projects/1)
+- [Linear planning project](https://linear.app/denman/project/githubcomquaestor-ledger-test-5bbe2a7b92a1)
+- [Detailed project-routing contract](../docs/PROJECTS.md)
+
+GitHub owns code and delivery evidence; Linear owns planning and dependencies. The linked organization Project provides the cross-repository execution view.
+<!-- org-project-routing:end -->
